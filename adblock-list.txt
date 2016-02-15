@@ -2,7 +2,7 @@
 ! Homepage: http://www.spam404.com/
 ! Title: Spam404
 ! Expires: 2 days
-! Version: 5421
+! Version: 5428
 ! Last modified: 15 Feb 2016
 ! Description: This filter protects you from online scams. This filter is regularly updated with data collected by Spam404.com.
 !
@@ -5416,6 +5416,13 @@ hepimovie.net###login
 ||fullmovieaz.com^
 ||onecinema.us^
 ||hdmoviespot.com^
+||playflix.in^
+||onomovie.xyz^
+||yituf.com^
+||sht87.com^
+||uptodatemovie.com^
+||apollo-us.com^
+||fimmovie.com^
 !
 !
 !
