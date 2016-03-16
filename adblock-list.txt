@@ -2,8 +2,8 @@
 ! Homepage: http://www.spam404.com/
 ! Title: Spam404
 ! Expires: 2 days
-! Version: 5446
-! Last modified: 08 Mar 2016
+! Version: 5439
+! Last modified: 16 Mar 2016
 ! Description: This filter protects you from online scams. This filter is regularly updated with data collected by Spam404.com.
 !
 ! You can report unblocked content and direct general queries to us
@@ -165,8 +165,6 @@
 ##[href^="http://mayukefile.com/"]
 ##[href^="http://filesyncing.net/"]
 ##[href^="http://stream.mobig.gr/"]
-##[href^="http://grippedfiles.com/"]
-##[href^="https://grippedfiles.com/"]
 ##[href^="http://epctrking.com/"]
 ##[href^="https://epctrking.com/"]
 ##[href^="https://quickdl.net/"]
@@ -658,7 +656,6 @@ hepimovie.net###login
 ||cheatstime.com^
 ||cracksbyte.com^
 ||gameraidz.com^
-||minecrafthackdownload.com^
 ||reliabledownloads.org^
 ||dragoncitycheatstool.com^
 ||shrinkonce.com^
@@ -2938,7 +2935,6 @@ hepimovie.net###login
 ||telechargergta5.com^
 ||freecodes.us^
 ||freedownloadfullpcgames.com^
-||filepcgames.com^
 ||freetoppcgames.com^
 ||mypcgamesdownload.com^
 ||fullfreegamex.com^
@@ -4206,7 +4202,6 @@ hepimovie.net###login
 ||usa-hacks.com^
 ||dragon-cityhack.com^
 ||passionsofmyheart.com^
-||free-minecrafthosting.com^
 ||free-riot-points-codes.org^
 ||free-amazongift-cards.com^
 ||yourtrustedhacks.com^
@@ -4451,7 +4446,6 @@ hepimovie.net###login
 ||gameappcheat.com^
 ||topcheatsgames.com^
 ||cheatscastle.com^
-||gripdownloads.com^
 ||yourdigitalsearcher.com^
 ||smartmediasearcher.com^
 ||litle.me^
@@ -5080,7 +5074,6 @@ hepimovie.net###login
 ||animationfullmovie.com^
 ||moviescollections.net^
 ||sht7.com^
-||grippedfiles.com^
 ||epctrking.com^
 ||celebrity-numbers.com^
 ||csgojackpot.su^
