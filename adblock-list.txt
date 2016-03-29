@@ -2,8 +2,8 @@
 ! Homepage: http://www.spam404.com/
 ! Title: Spam404
 ! Expires: 2 days
-! Version: 5439
-! Last modified: 16 Mar 2016
+! Version: 5431
+! Last modified: 29 Mar 2016
 ! Description: This filter protects you from online scams. This filter is regularly updated with data collected by Spam404.com.
 !
 ! You can report unblocked content and direct general queries to us
@@ -1611,7 +1611,6 @@ hepimovie.net###login
 ||cheatszilla.com^
 ||cracksncheats.com^
 ||fbgames-hacks.com^
-||gmailhackpassword.com^
 ||ps3minecraft.net^
 ||sevenhack.com^
 ||steamkeygengeneratorpro.com^
@@ -2024,7 +2023,6 @@ hepimovie.net###login
 ||facebook.ali-office.com^
 ||applegiveaways.us^
 ||justinbieber.reviewbuckz.com^
-||gamerbutler.com^
 ||fifa14androidhack.com^
 ||wizard101giveaway.com^
 ||ggteworld-hacks.com^
@@ -2857,7 +2855,6 @@ hepimovie.net###login
 ||oneclick2download.com^
 ||bestcheatzone.com^
 ||meetmecredits.com^
-||hack2day.com^
 ||googleplaystorehack.com^
 ||moviestarplanethack.filesquicky.com^
 ||crackernapper.com^
@@ -2949,7 +2946,6 @@ hepimovie.net###login
 ||isopcgames.com^
 ||playdowncenter.com^
 ||playdownstation.com^
-||topfreepcgame.com^
 ||directfilelinks.com^
 ||freegames4download.com^
 ||megauploadgame.com^
@@ -3317,7 +3313,6 @@ hepimovie.net###login
 ||hearthstonebetakeys.cc^
 ||ppdninjas.com^
 ||freeguildwars.com^
-||freeitunescode.org^
 ||pointstackersdevel.com^
 ||xboxlivegoldcodes.com^
 ||freesteamwalletcodes.com^
@@ -3872,7 +3867,6 @@ hepimovie.net###login
 ||steamcode.org^
 ||haydayhack.eu^
 ||medlafare.com^
-||startcheat.com^
 ||codesfreexbl.com^
 ||commenttricher.com^
 ||dofuskamasgenerateur.com^
@@ -4337,7 +4331,6 @@ hepimovie.net###login
 ||usefulforgames.com^
 ||heroesofthestormkeys.net^
 ||fantasyhack.com^
-||free-steam-cards.com^
 ||steamwalletgiftcards.com^
 ||gamestools.info^
 ||cheatload.com^
@@ -4574,7 +4567,6 @@ hepimovie.net###login
 ||onlygadgets.net^
 ||elitehackz.com^
 ||onlinehack24.com^
-||freehackstory.com^
 ||mixedhacks.com^
 ||codegeneratorfree.net^
 ||free-facebook-hack-account.com^
