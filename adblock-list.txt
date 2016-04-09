@@ -3,7 +3,7 @@
 ! Title: Spam404
 ! Expires: 2 days
 ! Version: 5430
-! Last modified: 07 Apr 2016
+! Last modified: 09 Apr 2016
 ! Description: This filter protects you from online scams. This filter is regularly updated with data collected by Spam404.com.
 !
 ! You can report unblocked content and direct general queries to us
@@ -5428,6 +5428,7 @@ hepimovie.net###login
 ||clanshelper.com^
 ||futstation.com^
 ||gamestipshacks.com^
+||iggamestop.com^
 !
 !
 !
