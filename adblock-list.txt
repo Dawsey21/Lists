@@ -2,8 +2,8 @@
 ! Homepage: http://www.spam404.com/
 ! Title: Spam404
 ! Expires: 2 days
-! Version: 5431
-! Last modified: 09 Apr 2016
+! Version: 5430
+! Last modified: 26 Apr 2016
 ! Description: This filter protects you from online scams. This filter is regularly updated with data collected by Spam404.com.
 !
 ! You can report unblocked content and direct general queries to us
@@ -82,7 +82,6 @@
 ##[href^="http://swiftdownload.net/"]
 ##[href^="http://lockredirect.com/"]
 ##[href^="http://reliabledownloads.org/"]
-##[href^="http://highfiles.net/"]
 ##[href^="http://www.needforfile.net/"]
 ##[href^="http://fileme.us/"]
 ##[href^="http://gripfile.net/"]
@@ -3972,7 +3971,6 @@ hepimovie.net###login
 ||gamehacks1337.eu^
 ||androidapgameshacks.com^
 ||hacker-compte-fb.com^
-||hack-tout.com^
 ||pirate-motdepasse-facebook.com^
 ||fbhackonline.me^
 ||plusjouesjeuxlimited.fr^
@@ -4065,7 +4063,6 @@ hepimovie.net###login
 ||face-hijack.fr^
 ||freexblgoldcode.com^
 ||getcreditcodes.com^
-||highfiles.net^
 ||riofiles.net^
 ||unlcked.net^
 ||juicyfiles.net^
@@ -4687,7 +4684,6 @@ hepimovie.net###login
 ||amazingoffer.biz^
 ||hay-day-hacks.com^
 ||sims4downloadx.com^
-||psnboss.com^
 ||shhort.com^
 ||itunesboss.com^
 ||xboxboss.com^
