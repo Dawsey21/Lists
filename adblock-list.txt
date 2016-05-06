@@ -2,8 +2,8 @@
 ! Homepage: http://www.spam404.com/
 ! Title: Spam404
 ! Expires: 2 days
-! Version: 5436
-! Last modified: 27 Apr 2016
+! Version: 5440
+! Last modified: 06 May 2016
 ! Description: This filter protects you from online scams. This filter is regularly updated with data collected by Spam404.com.
 !
 ! You can report unblocked content and direct general queries to us
@@ -171,6 +171,8 @@
 ##[href^="https://filetrkr.com/"]
 ##[href^="http://filetrkr.com/"]
 ##[href^="http://www.filetrkr.com/"]
+##[href^="https://royalfolders.com/"]
+##[href^="http://royalfolders.com/"]
 !
 !
 !
@@ -5431,6 +5433,8 @@ hepimovie.net###login
 ||jailbroken.co^
 ||ps3jailbreakdownloadfree.com^
 ||robbobrothers.com^
+||agario-bots.com^
+||royalfolders.com^
 !
 !
 !
