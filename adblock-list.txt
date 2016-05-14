@@ -2,8 +2,8 @@
 ! Homepage: http://www.spam404.com/
 ! Title: Spam404
 ! Expires: 2 days
-! Version: 5449
-! Last modified: 13 May 2016
+! Version: 5464
+! Last modified: 14 May 2016
 ! Description: This filter protects you from online scams. This filter is regularly updated with data collected by Spam404.com.
 !
 ! You can report unblocked content and direct general queries to us
@@ -5444,6 +5444,21 @@ hepimovie.net###login
 ||mobilestrikehacking.com^
 ||growtopia.work^
 ||mobilehacks4u.com^
+||gtavmoneycheat.com^
+||gta5moneygenerator.net^
+||gta5moneyglitch.org^
+||gta5xboxcheats.com^
+||gta5unlimitedmoney.com^
+||hackforgta5.com^
+||gta5onlineeasymoney.com^
+||unlimitedmoneycheatgta5.net^
+||hackgta5online.org^
+||gta5fastmoney.net^
+||gta5hacktool.net^
+||hackgta5online.com^
+||gta5cheatsmoney.net^
+||gta5cheat.org^
+||gta5cheatsonline.net^
 !
 !
 !
