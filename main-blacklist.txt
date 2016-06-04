@@ -5974,3 +5974,5 @@ security.system.ssl-verified.site
 system.ssl-verified.site
 ssl-verified.site
 mostwantedhf.info
+steam-gift-code.com
+steam-wallet.co
