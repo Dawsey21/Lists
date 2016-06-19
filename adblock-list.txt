@@ -2,8 +2,8 @@
 ! Homepage: http://www.spam404.com/
 ! Title: Spam404
 ! Expires: 2 days
-! Version: 5484
-! Last modified: 04 Jun 2016
+! Version: 5490
+! Last modified: 19 Jun 2016
 ! Description: This filter protects you from online scams. This filter is regularly updated with data collected by Spam404.com.
 !
 ! You can report unblocked content and direct general queries to us
@@ -5479,6 +5479,12 @@ hepimovie.net###login
 ||steam-wallet.co^
 ||subscribersgifts.com^
 ||startgifts.com^
+||trustfolders.com^
+||celebrity-phone-numbers.com^
+||celebritiesphone.com^
+||getfilesfrom.net^
+||celebritywizard.net^
+||famous-mobile.com^
 !
 !
 !
