@@ -3,7 +3,7 @@
 ! Title: Spam404
 ! Expires: 2 days
 ! Version: 5509
-! Last modified: 23 Aug 2016
+! Last modified: 26 Aug 2016
 ! Description: This filter protects you from online scams. This filter is regularly updated with data collected by Spam404.com.
 !
 ! You can report unblocked content and direct general queries to us
@@ -5504,6 +5504,30 @@ hepimovie.net###login
 ||morogefiles.com^
 ||unlockers.xyz^
 ||hackfbmessenger.xyz^
+||alljazeera.co^
+||bbc-africa.com^
+||cnn-africa.co^
+||unonoticias.net^
+||univision.click^
+||track-your-fedex-package.org^
+||mz-vodacom.info^
+||iusacell-movil. com.mx^
+||sabafon.info^
+||newtarrifs.net^
+||y0utube.com.mx^
+||fb-accounts.com^
+||googleplay-store.com^
+||whatsapp-app.com^
+||accounts.mx^
+||adjust-local-settings.com^
+||emiratesfoundation.net^
+||topcontactco.com^
+||icrcworld.com^
+||redcrossworld.com^
+||checkinonlinehere.com^
+||turkishairines.info^
+||bulbazaur.com^
+||pickuchu.com^
 !
 !
 !
