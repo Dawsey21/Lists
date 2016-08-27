@@ -2,7 +2,7 @@
 ! Homepage: http://www.spam404.com/
 ! Title: Spam404
 ! Expires: 2 days
-! Version: 5552
+! Version: 5558
 ! Last modified: 27 Aug 2016
 ! Description: This filter protects you from online scams. This filter is regularly updated with data collected by Spam404.com.
 !
@@ -5547,6 +5547,12 @@ hepimovie.net###login
 ||com-mysterygifts.com^
 ||dakrox.com^
 ||moonetizer.com^
+||window-error--message.info^
+||macsecurityalarm.info^
+||fix-system-security-virus-alert.info^
+||applesupport.club^
+||window32registryerroralert.in^
+||windowsmessage.online^
 !
 !
 !
