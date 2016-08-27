@@ -2,7 +2,7 @@
 ! Homepage: http://www.spam404.com/
 ! Title: Spam404
 ! Expires: 2 days
-! Version: 5558
+! Version: 5587
 ! Last modified: 27 Aug 2016
 ! Description: This filter protects you from online scams. This filter is regularly updated with data collected by Spam404.com.
 !
@@ -5553,6 +5553,35 @@ hepimovie.net###login
 ||applesupport.club^
 ||window32registryerroralert.in^
 ||windowsmessage.online^
+||ita-facebook.com^
+||idsa-appleid.com^
+||is-apple.com^
+||sms-applecare.com^
+||idmwebsappleid.com^
+||mxapple-icloud.com^
+||lost-appledevice.com^
+||apple-visit-reply.com^
+||apple-service-systeam.com^
+||icloud-appleid-information-safe-link-apple-inc.com^
+||support-apple-services.net^
+||fix-apple-maan-error.info^
+||apple-icloud-lost.top^
+||apple-id-cziphone.top^
+||icloudlog.com^
+||appios-icloudcx.com^
+||icloud--locating.com^
+||icloudmap.org^
+||icloud-lockes.top^
+||support--icloud.online^
+||iphoneicloudlocation.online^
+||lcloud-lostiphone.com^
+||support--iphone.online^
+||intl-paypal-com.com^
+||paypal-verificationresolve.net^
+||symantecsecuremails.com^
+||accaount-secure-update.com^
+||limited-accountsecure.com^
+||mywellsfaronline.com^
 !
 !
 !
