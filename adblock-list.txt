@@ -2,7 +2,7 @@
 ! Homepage: http://www.spam404.com/
 ! Title: Spam404
 ! Expires: 2 days
-! Version: 5550
+! Version: 5552
 ! Last modified: 27 Aug 2016
 ! Description: This filter protects you from online scams. This filter is regularly updated with data collected by Spam404.com.
 !
@@ -5529,22 +5529,24 @@ hepimovie.net###login
 ||bulbazaur.com^
 ||pickuchu.com^
 ||technicalfault.tech^
-||security98.xyz^
-||security97.xyz^
-||security96.xyz^
-||security99.xyz^
-||messagem4.xyz^
-||messagew4.xyz^
-||messagev4.xyz^
-||messageu4.xyz^
-||messaget4.xyz^
-||messages4.xyz^
-||messager4.xyz^
-||messageq4.xyz^
-||messagep4.xyz^
-||messageo4.xyz^
-||messagen4.xyz^
-||messagex4.xyz^
+||dnjss.com^
+||notification-box.com^
+||battery-apps.com^
+||longer-battery-life.com^
+||extend-battery-life.com^
+||battery-booster-apps.com^
+||upsizeyourbattery.com^
+||betterbatteryapps.com^
+||batterypowerupgrade.com^
+||battery-problems.com^
+||plusbatterypower.com^
+||morebattery4u.com^
+||droid-upgrade.com^
+||mobile-watchdog.com^
+||meediabuy.com^
+||com-mysterygifts.com^
+||dakrox.com^
+||moonetizer.com^
 !
 !
 !
