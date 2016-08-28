@@ -2,8 +2,8 @@
 ! Homepage: http://www.spam404.com/
 ! Title: Spam404
 ! Expires: 2 days
-! Version: 5587
-! Last modified: 27 Aug 2016
+! Version: 5602
+! Last modified: 28 Aug 2016
 ! Description: This filter protects you from online scams. This filter is regularly updated with data collected by Spam404.com.
 !
 ! You can report unblocked content and direct general queries to us
@@ -5582,6 +5582,21 @@ hepimovie.net###login
 ||accaount-secure-update.com^
 ||limited-accountsecure.com^
 ||mywellsfaronline.com^
+||virus-detection-portal.us^
+||virus-server-detection.us^
+||device-shell-breach-alert.us^
+||virus-exe-server.us^
+||boot-ini-missing.us^
+||err0r-logme-page-all-0x00002542.website^
+||machine-err0r-dial-startup-sdd.website^
+||applelid-ios.com^
+||appleld-ios9.com^
+||icloud-applev1.com^
+||apple-gps-china.com^
+||gsx-appleaccess.com^
+||appleid-china-apple.com^
+||icloud-ios-apple-server.com^
+||url-apple-email.com^
 !
 !
 !
