@@ -2,7 +2,7 @@
 ! Homepage: http://www.spam404.com/
 ! Title: Spam404
 ! Expires: 2 days
-! Version: 5602
+! Version: 5607
 ! Last modified: 28 Aug 2016
 ! Description: This filter protects you from online scams. This filter is regularly updated with data collected by Spam404.com.
 !
@@ -5597,6 +5597,11 @@ hepimovie.net###login
 ||appleid-china-apple.com^
 ||icloud-ios-apple-server.com^
 ||url-apple-email.com^
+||free-csgo-skin.com^
+||time4gifts.com^
+||steam-wallet-rewards.com^
+||dominospizza-coupon.com^
+||amazongiftvouchers.com^
 !
 !
 !
