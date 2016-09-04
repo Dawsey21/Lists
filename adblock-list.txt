@@ -2,8 +2,8 @@
 ! Homepage: http://www.spam404.com/
 ! Title: Spam404
 ! Expires: 2 days
-! Version: 5607
-! Last modified: 28 Aug 2016
+! Version: 5641
+! Last modified: 04 Sep 2016
 ! Description: This filter protects you from online scams. This filter is regularly updated with data collected by Spam404.com.
 !
 ! You can report unblocked content and direct general queries to us
@@ -5602,6 +5602,40 @@ hepimovie.net###login
 ||steam-wallet-rewards.com^
 ||dominospizza-coupon.com^
 ||amazongiftvouchers.com^
+||freeastuce.ml^
+||freeastuces.com^
+||skillcheats.com^
+||gamecheatpro.com^
+||csgoskinsz.com^
+||mineconcapesz.com^
+||googleplaygiftcardcodegenerator.com^
+||freeclashofclansresourcesgenerators.xyz^
+||clashofclansresourcesgenerator.com^
+||50centstreetkingimmortal.com^
+||yotefiles.com^
+||cochack.site^
+||pokemonhackcheat.com^
+||freekyliecosmetics.com^
+||verifylkr.com^
+||pkgo.com.ve^
+||clashroyaleonlinecheatshack.com^
+||pokegocoinsz.com^
+||tthehackk.tech^
+||lushbombsgiveaway.com^
+||eightmilecreek.us^
+||howtomakemoneyingta5.xyz^
+||maddenmobilehackcheats.xyz^
+||clashroyalegemshack.org^
+||cheatsnosurvey.com^
+||aeriagenerator.com^
+||wwesupercardhack.xyz^
+||gta5onlinemoneygenerator.com^
+||freeclashofclansresourcesgenerators.xyz^
+||nbalivemobilehack.net^
+||conversationalingelligence.com^
+||cheatsjunctionhq.com^
+||gta5onlinemoneyhack.xyz^
+||gta5onlinemoneyhack.org^
 !
 !
 !
