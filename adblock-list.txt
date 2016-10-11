@@ -2,8 +2,8 @@
 ! Homepage: http://www.spam404.com/
 ! Title: Spam404
 ! Expires: 2 days
-! Version: 5646
-! Last modified: 09 Oct 2016
+! Version: 5660
+! Last modified: 11 Oct 2016
 ! Description: This filter protects you from online scams. This filter is regularly updated with data collected by Spam404.com.
 !
 ! You can report unblocked content and direct general queries to us
@@ -5641,6 +5641,20 @@ hepimovie.net###login
 ||gaminglocation.com^
 ||cubegaming.net^
 ||botsagario.net^
+||pokecoinsgrab.com^
+||pokemoncoins.com^
+||pokecoinsfreebies.com^
+||pokecoins.net^
+||fullpcgames.xyz^
+||pokemongogiveaways.top^
+||pokecoinsgo.online^
+||freepokecoinsnow.com^
+||pokecoinshacked.org^
+||getpokemoncoins.net^
+||pokemongocoinhacker.com^
+||grabpokecoins.xyz^
+||free-pokecoins.org^
+||coinspokemongo.com^
 !
 !
 !
