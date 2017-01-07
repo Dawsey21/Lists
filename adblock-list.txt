@@ -2,8 +2,8 @@
 ! Homepage: http://www.spam404.com/
 ! Title: Spam404
 ! Expires: 2 days
-! Version: 5761
-! Last modified: 02 Jan 2017
+! Version: 5762
+! Last modified: 07 Jan 2017
 ! Description: This filter protects you from online scams. This filter is regularly updated with data collected by Spam404.com.
 !
 ! You can report unblocked content and direct general queries to us
@@ -5756,6 +5756,7 @@ hepimovie.net###login
 ||cswin4bet.com^
 ||csgoallbets.com^
 ||csgofurious.net^
+||giftsforsubs.org^
 !
 !
 !
