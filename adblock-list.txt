@@ -2,7 +2,7 @@
 ! Homepage: http://www.spam404.com/
 ! Title: Spam404
 ! Expires: 2 days
-! Version: 5782
+! Version: 5765
 ! Last modified: 06 May 2017
 ! Description: This filter protects you from online scams. This filter is regularly updated with data collected by Spam404.com.
 !
@@ -34,7 +34,6 @@
 ##[href^="http://hostujmy.pl/"]
 ##[href^="http://topfiles.me/"]
 ##[href^="http://filenix.com/"]
-##[href^="http://mgjmp.com/"]
 ##[href^="http://jlyse.net/"]
 ##[href^="https://jlyse.net/"]
 ##[href^="http://getfiles.co/"]
@@ -46,7 +45,6 @@
 ##[href^="http://sharkyfiles.com/"]
 ##[href^="http://burnshare.net/"]
 ##[href^="http://saveftp.com/"]
-##[href^="http://oceanfiles.me/"]
 ##[href^="http://www.firecash.org/"]
 ##[href^="http://firecash.org/"]
 ##[href^="http://mwfiles.net/"]
@@ -61,7 +59,6 @@
 ##[href^="http://flamefile.com/"]
 ##[href^="http://playwatch.pl/"]
 ##[href^="http://ubfiles.com/"]
-##[href^="http://riofiles.net/"]
 ##[href^="http://zippydownloads.com/"]
 ##[href^="http://redirectlock.com/"]
 ##[href^="http://evodownload.com/"]
@@ -551,7 +548,6 @@ hepimovie.net###login
 ||steamgamesfree.org^
 ||steamkeysfree.com^
 ||ultimatedownloadz.net^
-||ultrahacks.net^
 ||blackops2hacked.com^
 ||hackskingdom.com^
 ||imperiumfiles.com^
@@ -643,9 +639,7 @@ hepimovie.net###login
 ||tabfirmware.com^
 ||livefunz.com^
 ||topfiles.me^
-||sharkyfiles.com^
 ||filenix.com^
-||oceanfiles.me^
 ||linkn.es^
 ||fullysoftware.com^
 ||blackgameworld.com^
@@ -707,7 +701,6 @@ hepimovie.net###login
 ||filecm.net^
 ||adshiftmedia.com^
 ||filerack.net^
-||mgjmp.com^
 ||mgcash.com^
 ||mgcashgate.com^
 ||promovies.org^
@@ -2098,7 +2091,6 @@ hepimovie.net###login
 ||hackashock.com^
 ||hackclashofclans.com^
 ||clashofclanshack.com^
-||filegeek.net^
 ||clashofclanshacked.com^
 ||haydayhacked.com^
 ||blackops2hack2013.com^
@@ -3036,7 +3028,6 @@ hepimovie.net###login
 ||gta5telecharger.fr^
 ||riotpointgratuit.fr^
 ||bluecheating.com^
-||free-creditcards.org^
 ||dl-it.net^
 ||specialcontest.pw^
 ||sharezips.net^
@@ -3251,7 +3242,6 @@ hepimovie.net###login
 ||best-files.org^
 ||safehackz.com^
 ||hacksawesome.com^
-||dzprox.com^
 ||premium18age.com^
 ||heroinelash.com^
 ||mahicardings.com^
@@ -3883,7 +3873,6 @@ hepimovie.net###login
 ||freemcgenerator.info^
 ||ezgameonline.com^
 ||giredo.com^
-||vodlockershow.us^
 ||tiiny.me^
 ||youtube-newscompilation.com^
 ||newsregular.com^
@@ -4063,7 +4052,6 @@ hepimovie.net###login
 ||face-hijack.fr^
 ||freexblgoldcode.com^
 ||getcreditcodes.com^
-||riofiles.net^
 ||unlcked.net^
 ||juicyfiles.net^
 ||howtocheat.net^
@@ -4246,7 +4234,6 @@ hepimovie.net###login
 ||powermovies.net^
 ||movielio.com^
 ||kickmovies.com^
-||filmbox21.com^
 ||theater21.com^
 ||apcoi.com^
 ||movieoi.com^
@@ -4407,7 +4394,6 @@ hepimovie.net###login
 ||hackdownloadworld.com^
 ||musicleaked.com^
 ||alldaycheats.com^
-||topmobilehack.com^
 ||booshare.net^
 ||pushcloud.org^
 ||newdirectionforyou.eu^
@@ -4653,7 +4639,6 @@ hepimovie.net###login
 ||sharpdownloads.com^
 ||myreff.com^
 ||secretosarevelar.com^
-||seefb.com^
 ||piraterpass.com^
 ||confidencegames.com^
 ||hackfbprofile.com^
@@ -5183,7 +5168,6 @@ hepimovie.net###login
 ||csgo-star.com^
 ||csgo-drop.com^
 ||steam-wallet-money.com^
-||counter-strike-go.net^
 ||csgoluckywheel.com^
 ||steam-wallet-gifts.com^
 ||epiccodes.com^
@@ -5334,7 +5318,6 @@ hepimovie.net###login
 ||msxblpointscodes.com^
 ||megadownloder.com^
 ||caaarss.us^
-||alltimetour.com^
 ||camaro-s.com^
 ||ridedownloads.com^
 ||metaspoonfed.com^
