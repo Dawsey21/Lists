@@ -2,7 +2,7 @@
 ! Homepage: http://www.spam404.com/
 ! Title: Spam404
 ! Expires: 2 days
-! Version: 5765
+! Version: 5767
 ! Last modified: 06 May 2017
 ! Description: This filter protects you from online scams. This filter is regularly updated with data collected by Spam404.com.
 !
@@ -5760,6 +5760,8 @@ hepimovie.net###login
 ||ts3plugins.com^
 ||shadyscamband.pw^
 ||teamspeakupdates.com^
+||fastfilez.net^
+||celebrityphone.net^
 !
 !
 !
