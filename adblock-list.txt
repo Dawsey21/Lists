@@ -2,7 +2,7 @@
 ! Homepage: http://www.spam404.com/
 ! Title: Spam404
 ! Expires: 2 days
-! Version: 5826
+! Version: 5827
 ! Last modified: 13 Jul 2017
 ! Description: This filter protects you from online scams. This filter is regularly updated with data collected by Spam404.com.
 !
@@ -5821,6 +5821,7 @@ hepimovie.net###login
 ||skydrop.top^
 ||lucky-cases.org^
 ||elite-cases.com^
+||drakewing.net^
 !
 !
 !
