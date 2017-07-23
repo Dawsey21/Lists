@@ -2,7 +2,7 @@
 ! Homepage: http://www.spam404.com/
 ! Title: Spam404
 ! Expires: 2 days
-! Version: 5882
+! Version: 5883
 ! Last modified: 23 Jul 2017
 ! Description: This filter protects you from online scams. This filter is regularly updated with data collected by Spam404.com.
 !
@@ -5877,6 +5877,7 @@ hepimovie.net###login
 ||lightdrop.top^
 ||csgospiner.com^
 ||csgoroll.trade^
+||csgofast.trade^
 !
 !
 !
