@@ -2,7 +2,7 @@
 ! Homepage: http://www.spam404.com/
 ! Title: Spam404
 ! Expires: 2 days
-! Version: 5889
+! Version: 5904
 ! Last modified: 27 Jul 2017
 ! Description: This filter protects you from online scams. This filter is regularly updated with data collected by Spam404.com.
 !
@@ -5884,6 +5884,21 @@ hepimovie.net###login
 ||printscrreens.info^
 ||opencscase.com^
 ||skins-club.com^
+||easy-case.com^
+||freefifa17coins.net^
+||p0kec0ins.com^
+||thesnaphack.net^
+||claimiphone7.net^
+||lushbombfree.com^
+||getgiftcards.org^
+||txtspy.org^
+||tradebot.online^
+||tradecsgo.online^
+||csfast.net^
+||online-exchange.site^
+||fast-trade.tech^
+||csmoney1.ru^
+||exchangeskin.pro^
 !
 !
 !
