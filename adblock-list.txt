@@ -2,7 +2,7 @@
 ! Homepage: http://www.spam404.com/
 ! Title: Spam404
 ! Expires: 2 days
-! Version: 5934
+! Version: 5935
 ! Last modified: 30 Aug 2017
 ! Description: This filter protects you from online scams. This filter is regularly updated with data collected by Spam404.com.
 !
@@ -5929,6 +5929,7 @@ hepimovie.net###login
 ||magicchance.com^
 ||skinstradefast.com^
 ||skins-change.pro^
+||skinsdouble.net^
 !
 !
 !
