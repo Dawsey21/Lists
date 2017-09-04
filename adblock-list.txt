@@ -2,8 +2,8 @@
 ! Homepage: http://www.spam404.com/
 ! Title: Spam404
 ! Expires: 2 days
-! Version: 5940
-! Last modified: 01 Sep 2017
+! Version: 5941
+! Last modified: 04 Sep 2017
 ! Description: This filter protects you from online scams. This filter is regularly updated with data collected by Spam404.com.
 !
 ! You can report unblocked content and direct general queries to us
@@ -5935,6 +5935,7 @@ hepimovie.net###login
 ||shopmiscere.com^
 ||steamanaylst.com^
 ||skinjarz.com^
+||giftcodes.online^
 !
 !
 !
