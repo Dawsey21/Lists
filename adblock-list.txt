@@ -2,8 +2,8 @@
 ! Homepage: http://www.spam404.com/
 ! Title: Spam404
 ! Expires: 2 days
-! Version: 5972
-! Last modified: 08 Dec 2017
+! Version: 5981
+! Last modified: 09 Dec 2017
 ! Description: This filter protects you from online scams. This filter is regularly updated with data collected by Spam404.com.
 !
 ! You can report unblocked content and direct general queries to us
@@ -5967,6 +5967,15 @@ hepimovie.net###login
 ||roll4tune.com^
 ||coinshunt.com^
 ||casespolygon.pro^
+||lucky-loot.com^
+||skinsmath.com^
+||csgoshipper.com^
+||sonic-skins.com^
+||luckybox.pro^
+||catscase.com^
+||csgo-sweetwin.com^
+||pubgsmash.com^
+||steacommunlity.com^
 !
 !
 !
