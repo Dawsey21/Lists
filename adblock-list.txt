@@ -2,7 +2,7 @@
 ! Homepage: http://www.spam404.com/
 ! Title: Spam404
 ! Expires: 2 days
-! Version: 6013
+! Version: 6027
 ! Last modified: 20 Dec 2017
 ! Description: This filter protects you from online scams. This filter is regularly updated with data collected by Spam404.com.
 !
@@ -6008,6 +6008,20 @@ hepimovie.net###login
 ||start-bets.com^
 ||csgodawg.com^
 ||xn--opsin-2i1bzn.com^
+||doppler-roulette.com^
+||king-skin.net^
+||bountywin.com^
+||csgoexc.com^
+||skinscheck.com^
+||skinpolygon.com^
+||csgocoat.com^
+||skinsbit.com^
+||skinshelper.com^
+||easypotz.com^
+||ezzdrop.com^
+||energy-loot.com^
+||csgouranus.com^
+||space-skins.com^
 !
 !
 !
