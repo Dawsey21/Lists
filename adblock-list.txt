@@ -2,7 +2,7 @@
 ! Homepage: http://www.spam404.com/
 ! Title: Spam404
 ! Expires: 2 days
-! Version: 6043
+! Version: 6065
 ! Last modified: 26 Dec 2017
 ! Description: This filter protects you from online scams. This filter is regularly updated with data collected by Spam404.com.
 !
@@ -6038,6 +6038,28 @@ hepimovie.net###login
 ||skinsbrain.com^
 ||csgostix.com^
 ||musclepots.com^
+||playproz.com^
+||gr8plays.com^
+||gr8musik.com^
+||walemedia.com^
+||faztplay.com^
+||bonxmedia.com^
+||musicg8.com^
+||nowmusik.com^
+||owlplayz.com^
+||playcapt.com^
+||loomplay.com^
+||muziczion.com^
+||kickplays.com^
+||zedplays.com^
+||411playz.com^
+||goplayz.com^
+||247playz.com^
+||jetplayz.com^
+||smushgame.com^
+||newmediaz.com^
+||gamezmelt.com^
+||la.land^
 !
 !
 !
