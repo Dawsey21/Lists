@@ -2,7 +2,7 @@
 ! Homepage: http://www.spam404.com/
 ! Title: Spam404
 ! Expires: 2 days
-! Version: 6066
+! Version: 6103
 ! Last modified: 26 Dec 2017
 ! Description: This filter protects you from online scams. This filter is regularly updated with data collected by Spam404.com.
 !
@@ -6061,6 +6061,43 @@ hepimovie.net###login
 ||gamezmelt.com^
 ||la.land^
 ||csgoelemental.com^
+||csgohall.com^
+||skinsregal.com^
+||ravageskins.com^
+||revengecase.com^
+||skinspolygon.com^
+||zikdrop.top^
+||bets-fortune.com^
+||gambling-drop.com^
+||pubgsilver.com^
+||dolcedrop.com^
+||eucsgo.com^
+||csgosnakes.com^
+||goldrop.net^
+||csgoldluck.com^
+||forsedrop.com^
+||csgobong.com^
+||casespolygon.net^
+||csgocoolcase.com^
+||godlikedrop.com^
+||luckyxdrop.com^
+||doppler-coins.com^
+||csgoplacebet.com^
+||forcebets.com^
+||reapercase.com^
+||csgoeasy.money^
+||roulletecoins.com^
+||bilbotrade.com^
+||bongadrop.top^
+||skinspositive.com^
+||bountylore.com^
+||best-skins.com^
+||csgo2you.com^
+||dota4bet.com^
+||bomb-skins.com^
+||csgoleto.com^
+||xbets24.com^
+||bangpots.com^
 !
 !
 !
