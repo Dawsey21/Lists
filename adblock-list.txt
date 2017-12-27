@@ -2,7 +2,7 @@
 ! Homepage: http://www.spam404.com/
 ! Title: Spam404
 ! Expires: 2 days
-! Version: 6106
+! Version: 6102
 ! Last modified: 27 Dec 2017
 ! Description: This filter protects you from online scams. This filter is regularly updated with data collected by Spam404.com.
 !
@@ -187,13 +187,9 @@ hepimovie.net###login
 !
 !
 !-_-_-_-_-_-_-_-Scam Domains-_-_-_-_-_-_-_-!
-||gta5gratuit.com^
 ||telechargerdes.com^
-||gaming-blog.com^
-||thehackfacebook.com^
 ||rarshare.com^
 ||planetside2-hacks.com^
-||celebritygag.com^
 ||cheatmp.com^
 ||freexblcode.com^
 ||secrethotgames.com^
