@@ -2,7 +2,7 @@
 ! Homepage: http://www.spam404.com/
 ! Title: Spam404
 ! Expires: 2 days
-! Version: 6106
+! Version: 6109
 ! Last modified: 28 Dec 2017
 ! Description: This filter protects you from online scams. This filter is regularly updated with data collected by Spam404.com.
 !
@@ -6101,6 +6101,9 @@ hepimovie.net###login
 ||csgoarizona.com^
 ||dota2swap.site^
 ||csgolounge.money^
+||sweet-loot.com^
+||sharkcase.net^
+||loungebots.com^
 !
 !
 !
