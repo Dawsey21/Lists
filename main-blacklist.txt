@@ -6635,3 +6635,4 @@ csgotrade.zone
 cases500.com
 csgo.run
 sonic-skins.net
+csgofuture.net
