@@ -2,7 +2,7 @@
 ! Homepage: http://www.spam404.com/
 ! Title: Spam404
 ! Expires: 2 days
-! Version: 6139
+! Version: 6143
 ! Last modified: 30 Dec 2017
 ! Description: This filter protects you from online scams. This filter is regularly updated with data collected by Spam404.com.
 !
@@ -6134,6 +6134,10 @@ hepimovie.net###login
 ||minglecase.net^
 ||csgotrademax.com^
 ||csgowild.com^
+||csgotradebit.com^
+||fatetrade.com^
+||roxcase.com^
+||cswinshigh.com^
 !
 !
 !
