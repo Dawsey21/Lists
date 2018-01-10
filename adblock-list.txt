@@ -2,8 +2,8 @@
 ! Homepage: http://www.spam404.com/
 ! Title: Spam404
 ! Expires: 2 days
-! Version: 6166
-! Last modified: 08 Jan 2018
+! Version: 6173
+! Last modified: 10 Jan 2018
 ! Description: This filter protects you from online scams. This filter is regularly updated with data collected by Spam404.com.
 !
 ! You can report unblocked content and direct general queries to us
@@ -6161,6 +6161,13 @@ hepimovie.net###login
 ||skinsplays.com^
 ||verifiedreview.online^
 ||verifiedreview.today^
+||lotofdrop.com^
+||xn--stemcmmunily-09a608b.com^
+||steomcannunily.com^
+||capturescreen.tech^
+||staecomuinty.com^
+||xn--steamcommunlity-vpb.com^
+||slomcomnty.com^
 !
 !
 !
