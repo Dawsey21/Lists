@@ -2,8 +2,8 @@
 ! Homepage: http://www.spam404.com/
 ! Title: Spam404
 ! Expires: 2 days
-! Version: 6186
-! Last modified: 13 Jan 2018
+! Version: 6192
+! Last modified: 14 Jan 2018
 ! Description: This filter protects you from online scams. This filter is regularly updated with data collected by Spam404.com.
 !
 ! You can report unblocked content and direct general queries to us
@@ -6181,6 +6181,12 @@ hepimovie.net###login
 ||ovicase.com^
 ||vkonte.live^
 ||vkonte.club^
+||csgolaurel.com^
+||mingle-case.pro^
+||fortuscase.com^
+||viperscase.com^
+||epic-drop.net^
+||elitecases-cs.com^
 !
 !
 !
