@@ -2,8 +2,8 @@
 ! Homepage: http://www.spam404.com/
 ! Title: Spam404
 ! Expires: 2 days
-! Version: 6245
-! Last modified: 29 Jan 2018
+! Version: 6253
+! Last modified: 31 Jan 2018
 ! Description: This filter protects you from online scams. This filter is regularly updated with data collected by Spam404.com.
 !
 ! You can report unblocked content and direct general queries to us
@@ -6240,6 +6240,14 @@ hepimovie.net###login
 ||csgoluxe.top^
 ||csgo-luxe.top^
 ||gems-community.com^
+||piaybattlegrounds.com^
+||skinxtrader.com^
+||csgohop.com^
+||skinsamazing.com^
+||opskins.com.bz^
+||hellboost.com^
+||cs-money.pro^
+||csgomix.top^
 !
 !
 !
